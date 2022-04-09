@@ -1,0 +1,141 @@
+@import url("https://fonts.googleapis.com/css2?family=Vazirmatn:wght@200&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  padding: 0;
+  margin: 0;
+}
+.btn:focus {
+  border: 0;
+  outline: none;
+}
+#d-1 {
+  display: flex;
+  justify-content: right;
+  margin: 2rem 10rem;
+  width: 500px;
+}
+.btn {
+  border: 0;
+  font-family: "Vazirmatn";
+  border-radius: 5px;
+  padding: 5px 15px;
+  margin-right: 2rem;
+  font-weight: bold;
+}
+.ctm-btn-01 {
+  background-color: #e0e0e0;
+  color: #333;
+}
+.ctm-btn-01:hover,
+.ctm-btn-01:focus {
+  background-color: #aeaeae;
+  color: #333;
+}
+.ctm-btn-02 {
+  background-color: transparent;
+  color: #4964fe;
+  border: 2px solid #4964fe;
+}
+.ctm-btn-02:hover,
+.ctm-btn-02:focus {
+  background-color: #eaf0ff;
+  color: #4964fe;
+  border: 2px solid #4964fe;
+}
+.ctm-btn-03 {
+  background-color: transparent;
+  color: #4964fe;
+}
+.ctm-btn-03:hover,
+.ctm-btn-03:focus {
+  background-color: #eaf0ff;
+  color: #4964fe;
+}
+.ctm-btn-04 {
+  background-color: #3d5afe;
+  color: #ffffff;
+}
+.ctm-btn-05 {
+  background-color: #e0e0e0;
+  color: #9e9e9e;
+}
+.ctm-btn-05:hover,
+.ctm-btn-05:focus {
+  background-color: transparent;
+  color: #9e9e9e;
+}
+.ctm-btn-06 {
+  background-color: #2962ff;
+  color: #ffffff;
+}
+.ctm-btn-06::before {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f218";
+  padding-left: 5px;
+}
+.ctm-btn-07 {
+  background-color: #2962ff;
+  color: #ffffff;
+}
+.ctm-btn-07::after {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f218";
+  padding-right: 5px;
+}
+.ctm-btn-sm {
+  background-color: #2962ff;
+  color: #ffffff;
+}
+.ctm-btn-md {
+  background-color: #2962ff;
+  color: #ffffff;
+  transform: scale(1.2);
+}
+.ctm-btn-lg {
+  background-color: #2962ff;
+  color: #ffffff;
+  transform: scale(1.4);
+}
+.ctm-btn-default {
+  background-color: #e0e0e0;
+  color: #333;
+}
+.ctm-btn-default:hover,
+.ctm-btn-default:focus {
+  background-color: #aeaeae;
+}
+.ctm-btn-primary {
+  background-color: #2962ff;
+  color: #ffffff;
+}
+.ctm-btn-primary:hover,
+.ctm-btn-primary:focus {
+  background-color: #0039cb;
+}
+.ctm-btn-secondary {
+  background-color: #455a64;
+  color: #ffffff;
+}
+.ctm-btn-secondary:hover,
+.ctm-btn-secondary:focus {
+  background-color: #1c313a;
+}
+.ctm-btn-danger {
+  background-color: #d32f2f;
+  color: #ffffff;
+}
+.ctm-btn-danger:hover,
+.ctm-btn-danger:focus {
+  background-color: #9a0007;
+}
+/*
+    Coded by: Amirreza Heydari
+    Website: clarotm.ir
+    Website2: iseokar.ir
+    Date: 1400/01/20
+    Country: Iran/Tehran
+    
+*/
