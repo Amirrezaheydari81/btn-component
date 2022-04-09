@@ -5,6 +5,8 @@
       This was an exercise on the devchallenges site and I tried my best to do
       it
     </h1>
+    <br>
+    <img src="https://waregint.sirv.com/github%20photos/Screenshot%20from%202022-04-09%2019-22-02.png" width="1088" height="312" alt="btn-component" />
     <br />
     <p>
       With the components of the button, you can advance the design of your site
@@ -33,6 +35,7 @@
     </ul>
   </body>
 </html>
+
 
 
 
